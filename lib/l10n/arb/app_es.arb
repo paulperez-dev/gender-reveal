@@ -1,0 +1,39 @@
+{
+    "@@locale": "es",
+    "welcomeTitle": "Bienvenid@",
+    "@welcomeTitle": {
+        "description": "Título de bienvenida"
+    },
+     "welcomeBody1": "¡Hola! si estás aquí es porque mis padres quieren revelarte si seré niña o niño...",
+    "@welcomeBody1": {
+        "description": "Cuerpo del texto de bienvenida 1"
+    },
+    "welcomeBody2": "...así que te han preparado un pequeño juego para que lo descubras.",
+    "@welcomeBody2": {
+        "description": "Cuerpo del texto de bienvenida 2"
+    },
+    "gameTitle": "Tic-Tac-Toe",
+    "@gameTitle": {
+        "description": "Título del juego"
+    },
+    "gameInstructions": "Haz tap o clic en una de las perlas y selecciona la respuesta correcta.",
+    "@gameInstructions": {
+        "description": "Instrucciones del juego"
+    },
+    "buttonLetsPlay": "¡Jugemos!",
+    "@buttonLetsPlay": {
+        "description": "Texto del botón para dar inicio al juego"
+    },
+    "buttonNext": "Continuar",
+    "@buttonNext": {
+        "description": "Texto del botón para pasar a la siguiente pantalla"
+    },
+    "buttonConfirm": "Confirmar respuesta",
+    "@buttonConfirm": {
+        "description": "Texto del botón para Confirmar la respuesta"
+    },
+    "buttonRetry": "Reintentar",
+    "@buttonRetry": {
+        "description": "Texto del botón para reintentar"
+    }
+}
